@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="300" viewBox="0 0 500 300" role="img" aria-labelledby="title description">
+  <title id="title">Red bicycle</title>
+  <desc id="description">A red bicycle beside a path under a sunny sky.</desc>
+  <rect width="500" height="300" fill="#bde7ff"/>
+  <circle cx="430" cy="55" r="30" fill="#ffd65a"/>
+  <rect y="215" width="500" height="85" fill="#78b85a"/>
+  <path d="M0 265 Q250 195 500 260 V300 H0 Z" fill="#d7c39a"/>
+  <circle cx="155" cy="210" r="58" fill="none" stroke="#293241" stroke-width="8"/>
+  <circle cx="355" cy="210" r="58" fill="none" stroke="#293241" stroke-width="8"/>
+  <path d="M155 210 L225 125 L275 210 L195 210 L245 155 L355 210" fill="none" stroke="#d64045" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M225 125 L205 105 M208 105 H245 M245 155 L260 120 M247 120 H285" fill="none" stroke="#293241" stroke-width="8" stroke-linecap="round"/>
+</svg>

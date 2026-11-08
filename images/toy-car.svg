@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="300" viewBox="0 0 500 300" role="img" aria-labelledby="title description">
+  <title id="title">Toy car</title>
+  <desc id="description">A small blue toy car on a winding play road.</desc>
+  <rect width="500" height="300" fill="#ccecff"/>
+  <rect y="220" width="500" height="80" fill="#7dbd65"/>
+  <path d="M0 280 C130 185 310 330 500 210" fill="none" stroke="#555b66" stroke-width="75"/>
+  <path d="M0 280 C130 185 310 330 500 210" fill="none" stroke="#f8e36d" stroke-width="5" stroke-dasharray="22 18"/>
+  <g transform="translate(175 155)">
+    <path d="M20 45 L45 12 H112 L140 45 H155 Q170 45 170 62 V85 H0 V62 Q0 45 20 45 Z" fill="#3486c7" stroke="#263547" stroke-width="5"/>
+    <path d="M55 18 H105 L124 45 H38 Z" fill="#bfe8ff" stroke="#263547" stroke-width="4"/>
+    <circle cx="38" cy="86" r="20" fill="#263547"/>
+    <circle cx="135" cy="86" r="20" fill="#263547"/>
+    <circle cx="38" cy="86" r="8" fill="#adb5bd"/>
+    <circle cx="135" cy="86" r="8" fill="#adb5bd"/>
+  </g>
+</svg>

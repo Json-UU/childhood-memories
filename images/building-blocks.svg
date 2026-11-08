@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="300" viewBox="0 0 500 300" role="img" aria-labelledby="title description">
+  <title id="title">Building blocks</title>
+  <desc id="description">A colourful tower made from red, blue, yellow, and green toy blocks.</desc>
+  <rect width="500" height="300" fill="#f7efd9"/>
+  <rect y="255" width="500" height="45" fill="#d7c09a"/>
+  <rect x="125" y="190" width="105" height="65" rx="5" fill="#e85d5d" stroke="#343a40" stroke-width="4"/>
+  <circle cx="150" cy="188" r="10" fill="#e85d5d" stroke="#343a40" stroke-width="3"/>
+  <circle cx="205" cy="188" r="10" fill="#e85d5d" stroke="#343a40" stroke-width="3"/>
+  <rect x="230" y="190" width="125" height="65" rx="5" fill="#4f9bd9" stroke="#343a40" stroke-width="4"/>
+  <circle cx="258" cy="188" r="10" fill="#4f9bd9" stroke="#343a40" stroke-width="3"/>
+  <circle cx="325" cy="188" r="10" fill="#4f9bd9" stroke="#343a40" stroke-width="3"/>
+  <rect x="175" y="125" width="125" height="65" rx="5" fill="#f6c344" stroke="#343a40" stroke-width="4"/>
+  <circle cx="203" cy="123" r="10" fill="#f6c344" stroke="#343a40" stroke-width="3"/>
+  <circle cx="270" cy="123" r="10" fill="#f6c344" stroke="#343a40" stroke-width="3"/>
+  <rect x="215" y="60" width="90" height="65" rx="5" fill="#63b66c" stroke="#343a40" stroke-width="4"/>
+  <circle cx="238" cy="58" r="10" fill="#63b66c" stroke="#343a40" stroke-width="3"/>
+  <circle cx="282" cy="58" r="10" fill="#63b66c" stroke="#343a40" stroke-width="3"/>
+</svg>

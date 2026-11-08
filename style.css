@@ -1,0 +1,154 @@
+/* General page styling */
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    background-color: #f6efe3;
+    color: #27344a;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+}
+
+/* Page introduction */
+.page-header {
+    padding: 48px 20px 36px;
+    background-color: #173f5f;
+    color: #ffffff;
+    text-align: center;
+}
+
+.eyebrow {
+    margin: 0 0 8px;
+    color: #ffd166;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.introduction {
+    max-width: 650px;
+    margin: 0 auto;
+    color: #ffffff;
+    font-size: 18px;
+}
+
+/* Main content and headings */
+.page-content {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 24px 20px 48px;
+}
+
+.memory-section {
+    margin: 36px 0 56px;
+}
+
+h1 {
+    margin: 0 0 24px;
+    color: #173f5f;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 42px;
+    text-align: center;
+}
+
+h2 {
+    margin: 0 0 18px;
+    color: #c6534f;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 28px;
+}
+
+/* Memory cards demonstrate margin, padding, borders, and backgrounds */
+.memory-card {
+    margin: 0 0 28px;
+    padding: 28px;
+    background-color: #fffdf8;
+    border: 2px solid #dcc8a8;
+    border-radius: 12px;
+}
+
+.hobby-card {
+    border-left: 10px solid #2a9d8f;
+}
+
+.toy-card {
+    border-left: 10px solid #e9a23b;
+}
+
+.memory-card img {
+    display: block;
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    margin: 0 auto 22px;
+    border: 5px solid #ffffff;
+    border-radius: 8px;
+}
+
+p {
+    margin: 10px 0;
+    color: #3f4b5f;
+    font-size: 17px;
+}
+
+b {
+    color: #b33f3b;
+}
+
+em {
+    color: #157a70;
+    font-weight: bold;
+}
+
+/* Link styling */
+a {
+    color: #ffffff;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover,
+a:focus {
+    color: #ffd166;
+    text-decoration: underline;
+}
+
+.page-footer {
+    padding: 24px;
+    background-color: #173f5f;
+    text-align: center;
+}
+
+/* Keep the page comfortable to read on smaller screens */
+@media (max-width: 600px) {
+    .page-header {
+        padding: 36px 16px 28px;
+    }
+
+    .eyebrow {
+        font-size: 26px;
+    }
+
+    .page-content {
+        padding-right: 14px;
+        padding-left: 14px;
+    }
+
+    h1 {
+        font-size: 34px;
+    }
+
+    h2 {
+        font-size: 24px;
+    }
+
+    .memory-card {
+        padding: 20px;
+    }
+}
